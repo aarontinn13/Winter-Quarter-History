@@ -1,0 +1,31 @@
+    #Takes your number and transforms to Celsius
+    #using format instead of % because decimal
+#Below is an infinite loop, in order to escape, you must type 'break'
+    #exception handling for value errors
+        #This else conditional should take care of any integers that fall outside of 1-100
+    #This will
+    #exception handling for value errors
+    #if length is greater than or equal to 12, we move on, else we fail first check.
+        #if there are any digits we move on, else we fail second check
+            #if there are any characters we move on, else we fail third check
+                #if there are any of the special characters we move on, else we fail fourth check
+                    #if there are any upper case and lower case this is a strong password, else we fail fifth check
+#below is not an infinite loop since any 'break command' could be a password input
+#to check if values are numbers only
+#max function I think would iterate through a list like a map and and choose the highest as it reduces through.
+    #turning the input into a list using list comprehension
+    #this should iterate through every other item in the list starting at the second index
+        #multiplying by -2 to back out the number and keep the negative of it.
+    #will check if the number divided by 11 will produce a whole number.
+    #to remove all spaces
+    #to change everything to lowercase
+    #change the step backwards to start from end to beginning
+#no loop since any 'break command' could be an input
+    #will start the asterick count at one since there is only 1 at the top
+    #keep space count the same as height so it is even at the end
+    #This while loop will repeat while decreasing to 0
+        #each iteration will print spaces and astericks times their count
+        #each row increases asterick by 2
+        #each row decreases space by 1
+        #to decrease the loop
+    #To handle integer values only
